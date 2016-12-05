@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_d18ae6569f82e60fa3ddeb74f10780b842b7c3de/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_39e4f73ed2d4bcd10197841e8413fe17099e1b10.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c733942909587261d93f68fdfc4cc5f4cbfbbb4">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c119d7ba81357873f0cfcad1ce57b7589afebc66/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/faizmalkani/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_4e7ea1a601f11ddf5fb1b102d2468961106b08ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/2.0/ea86be2a201e6ad86dacffe774dbc6d89fcb0c92/muzei-api-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/muzei-api-2.0_4e11e96cbb1d30f5c8c45e81ca8ef1b4ccd8b5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ae1d0bce57d6103065ba22d9b7ba50ce85d943df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d3e76b28ddd7a8cc4170312b474c003c1f0d8bca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_9215aa43750a71697dcb83eddf6a19baed66c942/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.0_74f77666982e7a6f1f3c11fd3d4907f32bf1c215.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc38f0704a08802ebc398ecf13a0c9b2072dc1e5">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.1_89dd8995bf014dd981073c3413dd25221193a463/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_27d9ff82a2fefce1b493f8ffc6536311b76426e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.0_3efd549991911d5373b86a08b7f76550593aa6b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.1_da344f8d0c059218e42ce866d48b92932259f4ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_3209a8f26f1cdd66ce994e8259d3f9e571a7e61c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d849e1fcd9f99f4add4daf84503c958f60a43288/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5139b062e7fa2958c83a715666119a8df80a9222/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.0_e0859abc386d039b8b566e59188231de931ae0ee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.0.1_c6b62254fb1b2bebf55348eadcc952d72fa29e52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b49f3f1bddb0201ac336b50bb6c66040d26f6d0d">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.1_aaf1ca76286c7d7e0f30625d3b46dcf7d770d4d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3202db513a724413357b6189c481d88004a97b79">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-2.0.0-alpha3_dd397101f032bb4ae90bb4b195cc284c358dae18/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d70f7c486d9d65ceabd0039667ae4d53bf0ae7c">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.0.0_8d4aca0cc2031380278643906b031184f3da663e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="babde6b32d7ab7c069a98f008b2bc795c8777fae">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.1_e3864c18f90c013e2afcd079c1eea3e32efad712/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="13270ae22369a0d50cb6c560aeca4056f025cae6">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.1_7d151c1f9bbf86cafcaef9d95c7a9fddddd64ad2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_4775f0b5dc302ff5bc5c6837b62ad42480f7ad28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_a84427a7f86901bc75a207004f7ce9a30d95119e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3202db513a724413357b6189c481d88004a97b79">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-2.0.0-alpha3_c5bb12ec24c926d7cbfe8f811783cafcdf147716.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_a8ea3d9ba39de87ebc8dc73b9358bfaa79d578c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_02dceca7c610a1d66f56368ad486bfd59a3702fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e711046a40e1562d85854ee09cd0a05254cb6463">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.1_24ae62e648b033746a04a0daf4bd3ce21e317743/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b3be901eee6748cd8166e0fce462ca1e6756b7b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_da86edfe7b3a2934e3a1113f1d277464cbb449ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a3ebac72ca6befe2e900427505dbb3dd58a5ebbf">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.1_6663d265f8d69970f796155f1eb098192ab609ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7fc2b04029a4e0ff49c098310c84695c55697081">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d3082a5454f8dc9aa694f4a5a224ea80419bcb10/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/wear/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_67a89eff9e10b8b0140ba6c2dcbb3e23be9406d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.5.2_1d74723841564c057cd1b174d96760ce43341294/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_0b7163d2961c2b05895803215c1584cdce4d9eeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_8f0f5abefc68887e95eebe81e0e1486ae75cffd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_b8304897283373449a1f6661ca0825793e9e6b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_074e3f70b1a55b2d7b66c8b79316da3dcfd08a50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_aee49d798e3c806a2a3d77356d29f409542a6483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/faizmalkani/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/faizmalkani/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_8296b6e51f0cd756abd3c2de0ea46bde78960b64/classes.dex" />
+    </item>
+
+</items>
