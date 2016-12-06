@@ -348,8 +348,8 @@ public class SunshineWatchFace extends CanvasWatchFaceService
             {
                 if(weatherIcon != null)
                 {
-                    canvas.drawText(highTemp.intValue(), mXOffset, (float) (1.7 * mYOffset), weatherPaint);
-                    canvas.drawText(lowTemp.intValue(), mXOffset, (float) (1.9 * mYOffset), weatherPaint);
+                    canvas.drawText(String.valueOf(highTemp.intValue()), mXOffset, (float) (1.7 * mYOffset), weatherPaint);
+                    canvas.drawText(String.valueOf(lowTemp.intValue()), mXOffset, (float) (1.9 * mYOffset), weatherPaint);
 
                 }
             }
